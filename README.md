@@ -26,4 +26,4 @@ Mobile view:
 
 ## Live Demo
 
-View the live demo ![here](https://masha003.github.io./).
+View the live demo [here](https://masha003.github.io./)
