@@ -341,6 +341,7 @@ nav {
 .footer-section .copyright {
   padding: 30px 0;
   text-align: center;
+  color: var(--color-neutral-white);
 }
 /* FOOTER SECTION END */
 
