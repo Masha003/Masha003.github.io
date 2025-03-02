@@ -27,3 +27,7 @@ Mobile view:
 ## Live Demo
 
 View the live demo [here](https://masha003.github.io./)
+
+## Notes
+
+The design for this landing page was inspired from [FrontendMentor](https://www.frontendmentor.io/challenges/tech-book-club-landing-page-fZQidjHU73)
